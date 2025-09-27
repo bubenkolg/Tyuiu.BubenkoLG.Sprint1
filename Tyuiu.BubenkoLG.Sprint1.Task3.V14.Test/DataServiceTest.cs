@@ -12,7 +12,7 @@ namespace Tyuiu.BubenkoLG.Sprint1.Task3.V14.Test
             DataService ds = new DataService();
             double number = 123;
             var res = ds.ReverseNumber(number);
-            double wait = 324.23;
+            double wait = 321.0;
             Assert.AreEqual(wait, res);
         }
     }
