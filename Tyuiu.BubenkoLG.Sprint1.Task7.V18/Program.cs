@@ -27,7 +27,7 @@ namespace Tyuiu.BubenkoLG.Sprint1.Task7.V18
             Console.WriteLine("* Написать программу, которая вычисляет математическое выражение           ");
             Console.WriteLine("* по исходным значениям данных, вводимых пользователем.                    ");
             Console.WriteLine("* Ответ округлите до 3 знаков после запятой.                               ");
-            Console.WriteLine("* Ответ округлите до 3 знаков после запятой.                               ");
+            Console.WriteLine("*                                                                          ");
             Console.WriteLine("*                 2                                                        ");
             Console.WriteLine("*          1 + sin (x + y)                                                 ");
             Console.WriteLine("* z = ------------------------ + x                                         ");
